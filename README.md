@@ -1,4 +1,4 @@
-# Cars_Manage_SYSTEM_Information_Structure
+# Cars Manager, Roadmap Information System Structure
 
 ## General Idea
 This desktop application addresses management challenges faced by car rental agencies. It facilitates the organization of car rentals, client data, reservations, and financial tracking, optimizing operations for improved efficiency and customer service.

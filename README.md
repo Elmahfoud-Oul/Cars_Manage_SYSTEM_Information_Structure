@@ -54,21 +54,25 @@ This section explores how reservations interact with clients and the overall sys
 ## 4. Client Information
 Details about clients, including their profiles and rental history, are crucial for effective management. Below is an example of the client information section:
 
-![Client Information](link-to-your-image)
+![Client Information](https://raw.githubusercontent.com/Elmahfoud-Oul/Cars_Manage_SYSTEM_Information_Structure/refs/heads/main/Clients.png)
 
 ---
 
 ## 5. Car Management
 This part covers how the application handles the addition and management of cars within the system.
 
-![Car Management](link-to-your-image)
+![Car Management](https://raw.githubusercontent.com/Elmahfoud-Oul/Cars_Manage_SYSTEM_Information_Structure/refs/heads/main/cars_only.png)
 
 ---
 
-## 6. GPS Tracking
-The GPS tracking feature allows agencies to monitor the location of their vehicles in real-time, enhancing security and efficiency.
+## 6. Digital Contact + Digital Signature
+This contract it like bridge in low the link client with agency its a digital documents with a unique ID that contain all info the serculate in the system from clients, cars and agency Alos it sign by the agent of agency + client
+![Digital Contract](https://raw.githubusercontent.com/Elmahfoud-Oul/Cars_Manage_SYSTEM_Information_Structure/refs/heads/main/Contract.png)
 
-![GPS Tracking](link-to-your-image)
+
+## 6. The user Interface of contrcat as PDF
+This contract it like bridge in low the link client with agency its a digital documents with a unique ID that contain all info the serculate in the system from clients, cars and agency Alos it sign by the agent of agency + client
+![Contract PDF](https://github.com/Elmahfoud-Oul/Cars_Manage_SYSTEM_Information_Structure/blob/main/Contract_Offical.pdf)
 
 ---
 

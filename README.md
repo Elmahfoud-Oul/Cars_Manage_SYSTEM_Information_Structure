@@ -19,7 +19,7 @@ This desktop application addresses management challenges faced by car rental age
 ### 1.1 Data Transfer and Management
 The system allows for seamless data transfer and management overseen by the director agent. Below is an illustration of how data flows through the system:
 
-![System Diagram](https://raw.githubusercontent.com/Elmahfoud-Oul/Cars_Manage_SYSTEM_Information_Structure/refs/heads/main/Info_System.png)
+![System Diagram](https://raw.githubusercontent.com/Elmahfoud-Oul/Cars_Manage_SYSTEM_Information_Structure/refs/heads/main/Png-structure.png)
 
 ### 1.2 System Architecture
 The architecture outlines the components and interactions within the application.

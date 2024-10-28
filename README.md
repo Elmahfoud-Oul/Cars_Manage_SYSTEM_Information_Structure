@@ -58,7 +58,7 @@ Details about clients, including their profiles and rental history, are crucial 
 
 ---
 
-## 5. Car Management
+## 5. Car Info
 This part covers how the application handles the addition and management of cars within the system.
 
 ![Car Management](https://raw.githubusercontent.com/Elmahfoud-Oul/Cars_Manage_SYSTEM_Information_Structure/refs/heads/main/cars_only.png)
@@ -72,7 +72,7 @@ This contract it like bridge in low the link client with agency its a digital do
 
 ## 6. The user Interface of contrcat as PDF
 This contract it like bridge in low the link client with agency its a digital documents with a unique ID that contain all info the serculate in the system from clients, cars and agency Alos it sign by the agent of agency + client
-![Contract PDF](https://github.com/Elmahfoud-Oul/Cars_Manage_SYSTEM_Information_Structure/blob/main/Contract_Offical.pdf)
+[Click Here to get Contract as PDF](https://github.com/Elmahfoud-Oul/Cars_Manage_SYSTEM_Information_Structure/blob/main/Contract_Offical.pdf)
 
 ---
 

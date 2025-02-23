@@ -15,7 +15,7 @@ This desktop application addresses management challenges faced by car rental age
 6. [GPS Tracking](#gps-tracking)
 
 ## 1. System Information-UML DESIHN
-The UML allows have an overveiw about the architicture of the system, checm img bellow:
+The UML allows you to have an overveiw about the architicture of the system, check img bellow:
 
 ![UML Diagram](https://raw.githubusercontent.com/Elmahfoud-Oul/Cars_Manage_SYSTEM_Information_Structure/refs/heads/main/UML-ARCHITICTURE.png)
 ### 1.1 Data Transfer and Management
